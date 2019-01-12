@@ -1,4 +1,4 @@
-## GifTastic
+# GifTastic
 
 ### Link: https://darricalexander.github.io/GIGtastic-API/
 
